@@ -35,3 +35,30 @@ This project is a backend server for user authentication, built with Node.js, Ex
    ```bash
    git clone https://github.com/dinemo-lab/NaumBackend.git
    cd NaumBackend
+   
+2. Install dependencies:
+
+   ```bash
+   npm install
+
+3. Set up environment variables:
+
+   ```bash
+   MONGODB_URI=your_mongodb_connection_string
+   JWT_SECRET=your_secret_key
+   PORT=5000
+
+4. Run the server:
+
+   ```bash
+   npm start
+
+ 
+
+
+
+   
+
+
+
+ 
