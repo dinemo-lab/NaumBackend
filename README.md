@@ -1,4 +1,4 @@
-# Backend Server for User Authentication
+# Backend Server for TaskManagement
 
 This project is a backend server for user authentication, built with Node.js, Express, MongoDB, and JWT. It provides API endpoints for user registration and login, securely handling authentication tokens.
 
